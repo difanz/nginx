@@ -124,9 +124,9 @@ static char ngx_http_error_404_page[] =
 
 static char ngx_http_error_405_page[] =
 "<html>" CRLF
-"<head><title>405 Not Allowed</title></head>" CRLF
+"<head><title>I-405 Congested</title></head>" CRLF
 "<body bgcolor=\"white\">" CRLF
-"<center><h1>405 Not Allowed</h1></center>" CRLF
+"<center><h1>I-405 Congested</h1></center>" CRLF
 ;
 
 
